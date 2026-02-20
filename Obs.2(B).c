@@ -1,7 +1,6 @@
 #include <stdio.h>
 int main ()
 {
-
     int phy,chem,bio,math,comp;
     float percentage;
     printf ("Enter Five Subject Marks :\n");
@@ -22,3 +21,4 @@ int main ()
         printf("Fail");
     return 0;
 }
+
