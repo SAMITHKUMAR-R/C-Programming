@@ -41,11 +41,11 @@ int main()
           break;
         case 12:
           printf("31 Days");
-          break;
-          
+          break; 
         default :
           printf("Invalid Input")
     }
 }
+
 
 
